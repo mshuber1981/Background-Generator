@@ -1,0 +1,55 @@
+body {
+  color: black;
+  text-shadow: 1px 1px white;
+  background: linear-gradient(to right, red, yellow);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+}
+h1 {
+  text-transform: uppercase;
+  margin: 0;
+}
+.inputs {
+  display: inline;
+}
+.color1,
+.color2 {
+  cursor: pointer;
+  margin: 5px;
+}
+.copy {
+  display: inline-flex;
+  background-color: white;
+  border-radius: 12px;
+  padding: 5px;
+  margin: 5px;
+}
+.btn {
+  cursor: pointer;
+  margin: 5px;
+  border-radius: 12px;
+}
+
+#random {
+  cursor: pointer;
+  border-radius: 12px;
+  font-size: 16px;
+  padding: 5px;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 320px) {
+  body {
+    font-size: 0.75rem;
+  }
+}
+@media only screen and (max-height: 320px) {
+  body {
+    font-size: 0.75rem;
+  }
+}
