@@ -1,0 +1,37 @@
+/* General */
+h1 {
+  text-shadow: 1px 1px white;
+}
+
+h2 {
+  text-shadow: 1px 1px black;
+}
+
+.button {
+  width: 4em;
+  height: 2em;
+  cursor: pointer;
+}
+
+/* Media Queries */
+@media (max-width: 414px) {
+  .display-1 {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1;
+  }
+  h2 {
+    font-size: large;
+  }
+}
+
+@media (max-height: 414px) {
+  .display-1 {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1;
+  }
+  h2 {
+    font-size: x-large;
+  }
+}
