@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Background-Generator/static/css/main.b37ea3b4.chunk.css",
+    "main.js": "/Background-Generator/static/js/main.ceb628e5.chunk.js",
+    "main.js.map": "/Background-Generator/static/js/main.ceb628e5.chunk.js.map",
+    "runtime-main.js": "/Background-Generator/static/js/runtime-main.7dec9529.js",
+    "runtime-main.js.map": "/Background-Generator/static/js/runtime-main.7dec9529.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Background-Generator/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.9a3beefa.chunk.js": "/Background-Generator/static/js/2.9a3beefa.chunk.js",
+    "static/js/2.9a3beefa.chunk.js.map": "/Background-Generator/static/js/2.9a3beefa.chunk.js.map",
+    "index.html": "/Background-Generator/index.html",
+    "precache-manifest.c9791e395839f36ce40fdfc4e5ae4d3f.js": "/Background-Generator/precache-manifest.c9791e395839f36ce40fdfc4e5ae4d3f.js",
+    "service-worker.js": "/Background-Generator/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Background-Generator/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.b37ea3b4.chunk.css.map": "/Background-Generator/static/css/main.b37ea3b4.chunk.css.map",
+    "static/js/2.9a3beefa.chunk.js.LICENSE.txt": "/Background-Generator/static/js/2.9a3beefa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dec9529.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.9a3beefa.chunk.js",
+    "static/css/main.b37ea3b4.chunk.css",
+    "static/js/main.ceb628e5.chunk.js"
+  ]
+}
