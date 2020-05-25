@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f59846631762d9aa67d70824b5aec840",
+    "revision": "462710f7ba87f66bce1435a7d972fe72",
     "url": "/Background-Generator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Background-Generator/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "389a538c16c936826a35",
+    "revision": "d7a4c06909d5e2d7fc72",
     "url": "/Background-Generator/static/css/main.b37ea3b4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Background-Generator/static/js/2.9a3beefa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "389a538c16c936826a35",
-    "url": "/Background-Generator/static/js/main.ceb628e5.chunk.js"
+    "revision": "d7a4c06909d5e2d7fc72",
+    "url": "/Background-Generator/static/js/main.69bbb8f1.chunk.js"
   },
   {
     "revision": "bc933086911ed9e3d0cc",
