@@ -21,14 +21,14 @@ class App extends Component {
 
   handleChange1(event) {
     this.setState({
-      color1: event.target.value,
+      color1: event.target.value.toUpperCase(),
       message: "Copy to clipboard",
     });
   }
 
   handleChange2(event) {
     this.setState({
-      color2: event.target.value,
+      color2: event.target.value.toUpperCase(),
       message: "Copy to clipboard",
     });
   }
