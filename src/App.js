@@ -1,10 +1,10 @@
 import React, { Component } from "react";
+// https://www.npmjs.com/package/react-copy-to-clipboard
+import { CopyToClipboard } from "react-copy-to-clipboard";
 import AnimatedTitle from "./components/AnimatedTitle";
 import ColorInputs from "./components/ColorInputs";
 import RandomColors from "./components/RandomColors";
 import Value from "./components/Value";
-
-import { CopyToClipboard } from "react-copy-to-clipboard";
 
 class App extends Component {
   constructor(props) {
