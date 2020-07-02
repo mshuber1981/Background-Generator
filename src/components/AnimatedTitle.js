@@ -1,7 +1,10 @@
 import React from "react";
-import styled, { keyframes } from "styled-components";
+// https://www.npmjs.com/package/react-animations
 import { bounceInDown } from "react-animations";
+// https://www.npmjs.com/package/react-rainbow-text
 import RainbowText from "react-rainbow-text";
+// https://www.npmjs.com/package/styled-components
+import styled, { keyframes } from "styled-components";
 
 const bounce = keyframes`${bounceInDown}`;
 const BounceDiv = styled.div`

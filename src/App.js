@@ -10,6 +10,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
+      // Initial states for colors and copy button message
       color1: "#AE25E1",
       color2: "#15CE2D",
       message: "Copy to clipboard",
@@ -19,6 +20,7 @@ class App extends Component {
     this.handleChange2 = this.handleChange2.bind(this);
   }
 
+  // Handle color1 selection
   handleChange1(event) {
     this.setState({
       color1: event.target.value.toUpperCase(),
@@ -26,6 +28,7 @@ class App extends Component {
     });
   }
 
+  // Handle color2 selection
   handleChange2(event) {
     this.setState({
       color2: event.target.value.toUpperCase(),
@@ -33,12 +36,14 @@ class App extends Component {
     });
   }
 
+  // Return a random color
   randomColor() {
     return `#${Math.floor(Math.random() * 256 ** 3)
       .toString(16)
       .padStart(6, "0")}`.toUpperCase();
   }
 
+  // Use randomColor function to set two random colors
   handlechange3 = () => {
     let random1 = this.randomColor();
     let random2 = this.randomColor();
@@ -51,11 +56,13 @@ class App extends Component {
   };
 
   render() {
+    // Current color values
     let value = `background: linear-gradient(to right, ${this.state.color1}, ${this.state.color2})`;
 
     return (
       <main
         className="d-flex flex-column vh-100 justify-content-center align-items-center overflow-auto"
+        // Display current linear gradient background with inline style (https://reactjs.org/docs/dom-elements.html#style)
         style={{
           background: `linear-gradient(to right, ${this.state.color1}, ${this.state.color2})`,
         }}

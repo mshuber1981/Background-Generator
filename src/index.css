@@ -1,4 +1,5 @@
-/* General */
+/* General
+************************************************************** */
 h1 {
   text-shadow: 1px 1px white;
 }
@@ -13,7 +14,8 @@ h2 {
   cursor: pointer;
 }
 
-/* Media Queries */
+/* Media Queries
+************************************************************** */
 @media (max-width: 414px) {
   .display-1 {
     font-size: 3rem;
