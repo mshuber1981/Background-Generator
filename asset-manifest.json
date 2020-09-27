@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Background-Generator/static/css/main.085251f8.chunk.css",
-    "main.js": "/Background-Generator/static/js/main.2973da31.chunk.js",
-    "main.js.map": "/Background-Generator/static/js/main.2973da31.chunk.js.map",
-    "runtime-main.js": "/Background-Generator/static/js/runtime-main.7dec9529.js",
-    "runtime-main.js.map": "/Background-Generator/static/js/runtime-main.7dec9529.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/Background-Generator/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.9a3beefa.chunk.js": "/Background-Generator/static/js/2.9a3beefa.chunk.js",
-    "static/js/2.9a3beefa.chunk.js.map": "/Background-Generator/static/js/2.9a3beefa.chunk.js.map",
+    "main.js": "/Background-Generator/static/js/main.4b7aaef4.chunk.js",
+    "main.js.map": "/Background-Generator/static/js/main.4b7aaef4.chunk.js.map",
+    "runtime-main.js": "/Background-Generator/static/js/runtime-main.05c84de1.js",
+    "runtime-main.js.map": "/Background-Generator/static/js/runtime-main.05c84de1.js.map",
+    "static/css/2.6e90b12a.chunk.css": "/Background-Generator/static/css/2.6e90b12a.chunk.css",
+    "static/js/2.494c6df6.chunk.js": "/Background-Generator/static/js/2.494c6df6.chunk.js",
+    "static/js/2.494c6df6.chunk.js.map": "/Background-Generator/static/js/2.494c6df6.chunk.js.map",
     "index.html": "/Background-Generator/index.html",
-    "precache-manifest.759d19aa235940659abceb4ef1d6dd62.js": "/Background-Generator/precache-manifest.759d19aa235940659abceb4ef1d6dd62.js",
+    "precache-manifest.9ecafd1dd8564b41321dbe9dd7731aa9.js": "/Background-Generator/precache-manifest.9ecafd1dd8564b41321dbe9dd7731aa9.js",
     "service-worker.js": "/Background-Generator/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/Background-Generator/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/2.6e90b12a.chunk.css.map": "/Background-Generator/static/css/2.6e90b12a.chunk.css.map",
     "static/css/main.085251f8.chunk.css.map": "/Background-Generator/static/css/main.085251f8.chunk.css.map",
-    "static/js/2.9a3beefa.chunk.js.LICENSE.txt": "/Background-Generator/static/js/2.9a3beefa.chunk.js.LICENSE.txt"
+    "static/js/2.494c6df6.chunk.js.LICENSE.txt": "/Background-Generator/static/js/2.494c6df6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dec9529.js",
-    "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.9a3beefa.chunk.js",
+    "static/js/runtime-main.05c84de1.js",
+    "static/css/2.6e90b12a.chunk.css",
+    "static/js/2.494c6df6.chunk.js",
     "static/css/main.085251f8.chunk.css",
-    "static/js/main.2973da31.chunk.js"
+    "static/js/main.4b7aaef4.chunk.js"
   ]
 }
