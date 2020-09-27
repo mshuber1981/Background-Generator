@@ -1,7 +1,5 @@
 # Background Generator 🌈
 
-## Description
-
 A simple linear gradient background generator.
 
 ![Background Generator](bg.gif?raw=true "Background Generator")

@@ -7,8 +7,8 @@ import RandomColors from "./components/RandomColors";
 import Value from "./components/Value";
 
 class App extends Component {
-  constructor(props) {
-    super(props);
+  constructor() {
+    super();
     this.state = {
       // Initial states for colors and copy button message
       color1: "#AE25E1",
